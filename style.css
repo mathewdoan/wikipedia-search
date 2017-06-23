@@ -1,1 +1,14 @@
 /* coded by Mathew Doan */
+
+
+.container-fluid {
+	margin: 100px;
+}
+h4 {
+	padding: 10px;
+}
+
+#searchbar {
+	margin-bottom: 10px;
+}
+
